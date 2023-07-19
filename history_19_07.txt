@@ -1,0 +1,11 @@
+   0 date > new.txt
+   1 df >> new.txt
+   2 cat new.txt
+   3 ls -al
+   4 ls
+   5 history | tail -5 >> new.txt
+   6 cat /proc/cpuinfo | grep vendor >> new.txt
+   7 vi new.txt
+   8 ps -ef | grep root | wc -l >> new.txt
+   9 cat new.txt
+  10 history > /tmp/history.txt
